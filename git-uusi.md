@@ -1,0 +1,3 @@
+'''
+Kokeilen jakaa joain giiin
+'''
